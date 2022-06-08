@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sameh Adel
-- 👀 I’m interested in programming and software design & building
+- 👀 I’m love programming and software design
 - 🌱 I currently work as a Java Software Engineer 
 - 💞️ I’m passionate about collaborating to build agile software solutions that really matter 
 - 📫 LinkedIn: https://www.linkedin.com/in/samehadel/
